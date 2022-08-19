@@ -1,0 +1,22 @@
+# ninja log v5
+0	35	1660693410958508541	build.ninja	8a5e5fe857ae2550
+1	36	1660691995485228828	CMakeFiles/Image_Manipulation.dir/main.cpp.o	fbba47264d7f927b
+1	703	1660692027295227648	CMakeFiles/Image_Manipulation.dir/Image.cpp.o	5bbfd84b1758de51
+703	752	1660692027345227646	Image_Manipulation	7466d33f8e3ae3a3
+20	893	1660693882521823818	CMakeFiles/Image_Manipulation.dir/Image.cpp.o	5bbfd84b1758de51
+893	961	1660693882588490482	Image_Manipulation	7466d33f8e3ae3a3
+4	967	1660698800504958900	CMakeFiles/Image_Manipulation.dir/Image.cpp.o	5bbfd84b1758de51
+2	967	1660698800504958900	CMakeFiles/Image_Manipulation.dir/main.cpp.o	fbba47264d7f927b
+0	25	1660698990528285100	CMakeFiles/Image_Manipulation.dir/main.cpp.o	fbba47264d7f927b
+25	78	1660698990581618432	Image_Manipulation	7466d33f8e3ae3a3
+1	719	1660699020688283981	CMakeFiles/Image_Manipulation.dir/main.cpp.o	fbba47264d7f927b
+1	25	1660699157641612095	CMakeFiles/Image_Manipulation.dir/main.cpp.o	fbba47264d7f927b
+25	74	1660699157688278760	Image_Manipulation	7466d33f8e3ae3a3
+1	1023	1660699980618247173	CMakeFiles/Image_Manipulation.dir/Image.cpp.o	5bbfd84b1758de51
+1023	1090	1660699980684913836	Image_Manipulation	7466d33f8e3ae3a3
+0	754	1660700009944912750	CMakeFiles/Image_Manipulation.dir/Image.cpp.o	5bbfd84b1758de51
+754	807	1660700009998246082	Image_Manipulation	7466d33f8e3ae3a3
+0	906	1660728217883179086	CMakeFiles/Image_Manipulation.dir/Image.cpp.o	5bbfd84b1758de51
+906	973	1660728217949845748	Image_Manipulation	7466d33f8e3ae3a3
+0	695	1660728240309844932	CMakeFiles/Image_Manipulation.dir/Image.cpp.o	5bbfd84b1758de51
+695	745	1660728240359844928	Image_Manipulation	7466d33f8e3ae3a3

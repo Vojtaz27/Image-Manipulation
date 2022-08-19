@@ -1,0 +1,3 @@
+/home/tommytim/Documents/GitRepos/Image_Manipulation/Image-Manipulation/cmake-build-debug/CMakeFiles/Image_Manipulation.dir
+/home/tommytim/Documents/GitRepos/Image_Manipulation/Image-Manipulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tommytim/Documents/GitRepos/Image_Manipulation/Image-Manipulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
